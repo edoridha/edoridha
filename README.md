@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ridha</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **BeOne Solution Optima**
+- 🔭 I’m currently working on **MyBuild.id** as Backend Developer Intern
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
@@ -9,7 +9,7 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-- 📄 Know about my experiences [I am someone who combines a love for music and coffee with a deep-seated passion for programming, particularly in the realms of web development and mobile applications. My programming voyage commenced upon the successful culmination of Hacktiv8's intensive full-stack web developer bootcamp. This transition transpired subsequent to my departure from a former career in coffee roasting, driven by an unwavering desire to wholeheartedly embrace my lifelong affinity for technology.]
+- 📄 Know about my experiences I am someone who combines a love for music and coffee with a deep-seated passion for programming, particularly in the realms of web development and mobile applications. My programming voyage commenced upon the successful culmination of Hacktiv8's intensive full-stack web developer bootcamp. This transition transpired subsequent to my departure from a former career in coffee roasting, driven by an unwavering desire to wholeheartedly embrace my lifelong affinity for technology.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
