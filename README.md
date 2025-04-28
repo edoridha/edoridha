@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ridha</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **MyBuild.id** as Backend Developer Intern
+- 🔭 I’m currently working on **Arsa Radhika Teknologi** as Frontend Developer
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
